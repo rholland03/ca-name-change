@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Alameda County",
+    "website": "https://www.alamedacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Alameda County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Alpine County",
+    "website": "https://www.alpinecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Alpine County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Amador County",
+    "website": "https://www.amadorcountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Amador County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Butte County",
+    "website": "https://www.buttecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Butte County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Calaveras County",
+    "website": "https://www.calaverascountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Calaveras County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Colusa County",
+    "website": "https://www.colusacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Colusa County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Contra Costa County",
+    "website": "https://www.contracostacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Contra Costa County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Del Norte County",
+    "website": "https://www.delnortecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Del Norte County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "El Dorado County",
+    "website": "https://www.eldoradocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, El Dorado County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Fresno County",
+    "website": "https://www.fresnocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Fresno County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Glenn County",
+    "website": "https://www.glenncountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Glenn County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Humboldt County",
+    "website": "https://www.humboldtcountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Humboldt County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Imperial County",
+    "website": "https://www.imperialcountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Imperial County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Inyo County",
+    "website": "https://www.inyocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Inyo County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Kern County",
+    "website": "https://www.kerncountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Kern County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Kings County",
+    "website": "https://www.kingscountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Kings County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Lake County",
+    "website": "https://www.lakecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Lake County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Lassen County",
+    "website": "https://www.lassencountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Lassen County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Los Angeles County",
+    "website": "https://www.losangelescountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Los Angeles County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Madera County",
+    "website": "https://www.maderacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Madera County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Marin County",
+    "website": "https://www.marincountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Marin County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Mariposa County",
+    "website": "https://www.mariposacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Mariposa County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Mendocino County",
+    "website": "https://www.mendocinocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Mendocino County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Merced County",
+    "website": "https://www.mercedcountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Merced County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Modoc County",
+    "website": "https://www.modoccountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Modoc County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Mono County",
+    "website": "https://www.monocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Mono County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Monterey County",
+    "website": "https://www.montereycountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Monterey County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Napa County",
+    "website": "https://www.napacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Napa County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Nevada County",
+    "website": "https://www.nevadacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Nevada County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Orange County",
+    "website": "https://www.orangecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Orange County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Placer County",
+    "website": "https://www.placercountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Placer County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Plumas County",
+    "website": "https://www.plumascountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Plumas County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Riverside County",
+    "website": "https://www.riversidecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Riverside County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Sacramento County",
+    "website": "https://www.sacramentocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Sacramento County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Benito County",
+    "website": "https://www.sanbenitocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Benito County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Bernardino County",
+    "website": "https://www.sanbernardinocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Bernardino County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Diego County",
+    "website": "https://www.sandiegocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Diego County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Francisco County",
+    "website": "https://www.sanfranciscocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Francisco County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Joaquin County",
+    "website": "https://www.sanjoaquincountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Joaquin County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Luis Obispo County",
+    "website": "https://www.sanluisobispocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Luis Obispo County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "San Mateo County",
+    "website": "https://www.sanmateocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, San Mateo County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Santa Barbara County",
+    "website": "https://www.santabarbaracountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Santa Barbara County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Santa Clara County",
+    "website": "https://www.santaclaracountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Santa Clara County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Santa Cruz County",
+    "website": "https://www.santacruzcountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Santa Cruz County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Shasta County",
+    "website": "https://www.shastacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Shasta County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Sierra County",
+    "website": "https://www.sierracountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Sierra County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Siskiyou County",
+    "website": "https://www.siskiyoucountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Siskiyou County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Solano County",
+    "website": "https://www.solanocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Solano County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Sonoma County",
+    "website": "https://www.sonomacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Sonoma County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Stanislaus County",
+    "website": "https://www.stanislauscountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Stanislaus County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Sutter County",
+    "website": "https://www.suttercountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Sutter County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Tehama County",
+    "website": "https://www.tehamacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Tehama County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Trinity County",
+    "website": "https://www.trinitycountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Trinity County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Tulare County",
+    "website": "https://www.tularecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Tulare County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Tuolumne County",
+    "website": "https://www.tuolumnecountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Tuolumne County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Ventura County",
+    "website": "https://www.venturacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Ventura County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Yolo County",
+    "website": "https://www.yolocountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Yolo County, CA",
+    "notes": "Replace with official details."
+  },
+  {
+    "name": "Yuba County",
+    "website": "https://www.yubacountyca.gov",
+    "phone": "(000) 000-0000",
+    "address": "Clerk-Recorder Office, Yuba County, CA",
+    "notes": "Replace with official details."
+  }
+]
